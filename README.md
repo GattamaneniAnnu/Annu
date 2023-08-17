@@ -1,2 +1,1 @@
-# Annu
-Housing management system (group project)
+Housing management system 
